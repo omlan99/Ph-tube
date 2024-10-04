@@ -1,0 +1,11 @@
+{
+  "json.schemas": [
+    
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+},
+"emmet.syntaxProfiles": {
+    "javascript": "jsx"
+}
+}
